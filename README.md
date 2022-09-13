@@ -21,7 +21,7 @@
 ## 👁️‍🗨️ COMPUTER VISION<a name = "CV"></a>
 ---
 
-| Books ![](D:\Github\Resources_Bank_CV_NLP_MLops\images\book.jpg) | Articles ![](D:\Github\Resources_Bank_CV_NLP_MLops\images\blog.jpg) | Video ![](D:\Github\Resources_Bank_CV_NLP_MLops\images\video.jpg) | Extra Resources ![](D:\Github\Resources_Bank_CV_NLP_MLops\images\extra.jpg) |
+| Books ![](https://raw.githubusercontent.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/main/images/book.jpg) | Articles ![](https://raw.githubusercontent.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/main/images/blog.jpg) | Video ![](https://raw.githubusercontent.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/main/images/video.jpg) | Extra Resources ![](https://raw.githubusercontent.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/main/images/extra.jpg) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 |                                                              |                                                              |                                                              |                                                              |
 |                                                              |                                                              |                                                              |                                                              |
@@ -30,7 +30,7 @@
 ## 📝 NATURAL LANGUAGE PROCESSING<a name = "NLP"></a>
 ---
 
-| Books ![](D:\Github\Resources_Bank_CV_NLP_MLops\images\book.jpg) | Articles ![](D:\Github\Resources_Bank_CV_NLP_MLops\images\blog.jpg) | Video ![](D:\Github\Resources_Bank_CV_NLP_MLops\images\video.jpg) | Extra Resources ![](D:\Github\Resources_Bank_CV_NLP_MLops\images\extra.jpg) |
+| Books ![](https://raw.githubusercontent.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/main/images/book.jpg) | Articles ![](https://raw.githubusercontent.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/main/images/blog.jpg) | Video ![](https://raw.githubusercontent.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/main/images/video.jpg) | Extra Resources ![](https://raw.githubusercontent.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/main/images/extra.jpg) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 |                                                              |                                                              |                                                              |                                                              |
 |                                                              |                                                              |                                                              |                                                              |
@@ -39,7 +39,7 @@
 ## 👨‍💻 MLOPS<a name = "MLOPS"></a>
 ---
 
-| Books ![](D:\Github\Resources_Bank_CV_NLP_MLops\images\book.jpg) | Articles ![](D:\Github\Resources_Bank_CV_NLP_MLops\images\blog.jpg) | Video ![](D:\Github\Resources_Bank_CV_NLP_MLops\images\video.jpg) | Extra Resources ![](D:\Github\Resources_Bank_CV_NLP_MLops\images\extra.jpg) |
+| Books ![](https://raw.githubusercontent.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/main/images/book.jpg) | Articles ![](https://raw.githubusercontent.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/main/images/blog.jpg) | Video ![](https://raw.githubusercontent.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/main/images/video.jpg) | Extra Resources ![](https://raw.githubusercontent.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/main/images/extra.jpg) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 |                                                              |                                                              |                                                              |                                                              |
 |                                                              |                                                              |                                                              |                                                              |
