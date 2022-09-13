@@ -23,7 +23,7 @@
 
 #### Books ![](https://raw.githubusercontent.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/main/images/book.jpg)
 
-| Sr.No | Book Name |      |
+| Sr.No | Book Name | Link |
 | ----- | --------- | ---- |
 |       |           |      |
 |       |           |      |
@@ -59,12 +59,12 @@
 
 #### Books ![](https://raw.githubusercontent.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/main/images/book.jpg)
 
-|                                                              |      |      |
-| ------------------------------------------------------------ | ---- | ---- |
-| 1.  [Computer Vision: Algorithms and Applications:](https://szeliski.org/Book/) |      |      |
-| 2. [Practical Deep Learning for Cloud, Mobile & Edge](https://www.oreilly.com/library/view/practical-deep-learning/9781492034858/) |      |      |
-| 3. [Concise Computer Vision: An Introduction into Theory and Algorithms](https://link.springer.com/book/10.1007/978-1-4471-6320-6) |      |      |
-| 4.                                                           |      |      |
+|      |      |      |
+| ---- | ---- | ---- |
+|      |      |      |
+|      |      |      |
+|      |      |      |
+|      |      |      |
 
 #### Articles ![](https://raw.githubusercontent.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/main/images/blog.jpg)
 
