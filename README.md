@@ -14,7 +14,7 @@
 
 ## 📝 Table of Contents
 
-- [Computer Vison](#CV)
+- [COMPUTER VISION](#CV)
 - [NATURAL LANGUAGE PROCESSING](#NLP)
 - [MLOPS](#MLOPS)
 
