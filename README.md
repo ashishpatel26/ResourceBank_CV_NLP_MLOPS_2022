@@ -21,13 +21,16 @@
 ---
 | Sr.No | Book Name                                                    | Link                                                         |
 | ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 1     | **Computer Vision: Algorithms and Applications**             | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/book_link.jpg)](https://szeliski.org/Book/) |
-| 2     | **Practical Deep Learning for Cloud, Mobile & Edge**         | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/book_link.jpg)](https://lnkd.in/gX4tKbD4) |
-| 3     | **Concise Computer Vision: An Introduction into Theory and Algorithms** | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/book_link.jpg)](https://lnkd.in/g2pxMJax) |
-| 4     | **Computer Vision: Principles, Algorithms, Applications, Learning** | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/book_link.jpg)](https://lnkd.in/gukyYGdZ) |
-| 5     | **Computer Vision: Models, Learning, and Inference**         | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/book_link.jpg)](https://lnkd.in/gDJ3_dbN) |
-| 6     | **Deep Learning for Vision Systems**                         | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/book_link.jpg)](https://lnkd.in/gcqya3RJ) |
-| 7     | **Modern Computer Vision with Pytorch**                      | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/book_link.jpg)](https://lnkd.in/gkY7zWH5) |
+| 1     | **Machine Learning Specialization**                          | [![](https://raw.githubusercontent.com/ashishpatel26/ResourceBank_CV_NLP_MLOPS_2022/main/images/online-learning.png)](https://lnkd.in/dUFfAdNS) |
+| 2     | **Deep Learning Specialization**         | [![](https://raw.githubusercontent.com/ashishpatel26/ResourceBank_CV_NLP_MLOPS_2022/main/images/online-learning.png)](https://lnkd.in/gpQhgA2T) |
+| 3     | **Natural Language Processing Specialization** | [![](https://raw.githubusercontent.com/ashishpatel26/ResourceBank_CV_NLP_MLOPS_2022/main/images/online-learning.png)](https://lnkd.in/dswF7VtT) |
+| 4     | **TensorFlow Developer Professional Certificate** | [![](https://raw.githubusercontent.com/ashishpatel26/ResourceBank_CV_NLP_MLOPS_2022/main/images/online-learning.png)](https://lnkd.in/d5jS5gsU) |
+| 5     | **TensorFlow: Advanced Techniques Specialization** | [![](https://raw.githubusercontent.com/ashishpatel26/ResourceBank_CV_NLP_MLOPS_2022/main/images/online-learning.png)](https://lnkd.in/dnTEBAVk) |
+| 6     | **TensorFlow: Data and Deployment Specialization**| [![](https://raw.githubusercontent.com/ashishpatel26/ResourceBank_CV_NLP_MLOPS_2022/main/images/online-learning.png)](https://lnkd.in/dG7ZaMjF) |
+| 7     | **Machine Learning Engineering for Production (MLOps) Specialization** | [![](https://raw.githubusercontent.com/ashishpatel26/ResourceBank_CV_NLP_MLOPS_2022/main/images/online-learning.png)](https://lnkd.in/gicaDub6) |
+| 8     | **Generative Adversarial Networks (GANs) Specialization** | [![](https://raw.githubusercontent.com/ashishpatel26/ResourceBank_CV_NLP_MLOPS_2022/main/images/online-learning.png)](https://lnkd.in/dye_EFdb) |
+| 9     | **Practical Data Science on the Amazon Web Services (AWS) Cloud Specialization**                      | [![](https://raw.githubusercontent.com/ashishpatel26/ResourceBank_CV_NLP_MLOPS_2022/main/images/online-learning.png)](https://lnkd.in/dShdTA2R) |
+
 
 
 ## 👁️‍🗨️ COMPUTER VISION<a name = "CV"></a>
