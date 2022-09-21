@@ -124,6 +124,12 @@
 
 ---
 
+**Learning Path NLP**:
+
+![img](https://github.com/graykode/nlp-roadmap/raw/master/img/nlp.png)
+
+​                                                                                       **Credit : [graykode](https://github.com/graykode)**
+
 #### Books ![](https://raw.githubusercontent.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/main/images/book.jpg)
 
 | Sr.No | Book Name                                    | Link                                                         |
@@ -182,7 +188,9 @@
 ## 👨‍💻 MLOPS<a name = "MLOPS"></a>
 ---
 
+![MLOps Principles](https://ml-ops.org/img/mlops-phasen.jpg) 
 
+​                                                                                        **Credit : Ml-ops.org**
 
 #### Books ![](https://raw.githubusercontent.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/main/images/book.jpg)
 
