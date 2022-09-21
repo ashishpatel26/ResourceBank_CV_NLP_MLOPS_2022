@@ -18,7 +18,7 @@
 - [NATURAL LANGUAGE PROCESSING](#NLP)
 - [MLOPS](#MLOPS)
 
-## ♾️ 95% Data Science Skill Covered Course<a name="course"></a>
+## ♾️ 95% Data Science Skills Covered Course<a name="course"></a>
 ---
 | Sr.No | Book Name                                                    | Link                                                         |
 | ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
