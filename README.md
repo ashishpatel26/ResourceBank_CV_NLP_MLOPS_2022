@@ -184,44 +184,44 @@
 
 #### Books ![](https://raw.githubusercontent.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/main/images/book.jpg)
 
-| Sr.No | Book Name                                    | Link                                                         |
-| ----- | -------------------------------------------- | ------------------------------------------------------------ |
-| 1     | Computer Vision: Algorithms and Applications | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/book_link.jpg)](https://szeliski.org/Book/) |
-| 2     |                                              | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/book_link.jpg)]() |
-| 3     |                                              | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/book_link.jpg)]() |
-| 4     |                                              | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/book_link.jpg)]() |
-| 5     |                                              | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/book_link.jpg)]() |
-| 6     |                                              | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/book_link.jpg)]() |
-| 7     |                                              | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/book_link.jpg)]() |
-| 8     |                                              | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/book_link.jpg)]() |
-| 9     |                                              | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/book_link.jpg)]() |
-| 10.   |                                              | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/book_link.jpg)]() |
+| Sr.No | Book Name | Link                                                         |
+| ----- | --------- | ------------------------------------------------------------ |
+| 1     |           | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/book_link.jpg)](https://szeliski.org/Book/) |
+| 2     |           | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/book_link.jpg)]() |
+| 3     |           | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/book_link.jpg)]() |
+| 4     |           | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/book_link.jpg)]() |
+| 5     |           | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/book_link.jpg)]() |
+| 6     |           | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/book_link.jpg)]() |
+| 7     |           | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/book_link.jpg)]() |
+| 8     |           | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/book_link.jpg)]() |
+| 9     |           | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/book_link.jpg)]() |
+| 10.   |           | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/book_link.jpg)]() |
 
 #### Articles ![](https://raw.githubusercontent.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/main/images/blog.jpg)
 
-| Sr.No | Article Name                                 | Link                                                         |
-| ----- | -------------------------------------------- | ------------------------------------------------------------ |
-| 1     | Computer Vision: Algorithms and Applications | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/bloglink.jpg)]() |
-| 2     |                                              | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/bloglink.jpg)]() |
-| 3     |                                              | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/bloglink.jpg)]() |
-| 4     |                                              | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/bloglink.jpg)]() |
-| 5     |                                              | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/bloglink.jpg)]() |
-| 6     |                                              | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/bloglink.jpg)]() |
-| 7     |                                              | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/bloglink.jpg)]() |
-| 8     |                                              | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/bloglink.jpg)]() |
-| 9     |                                              | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/bloglink.jpg)]() |
-| 10    |                                              | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/bloglink.jpg)]() |
+| Sr.No | Article Name | Link                                                         |
+| ----- | ------------ | ------------------------------------------------------------ |
+| 1     |              | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/bloglink.jpg)]() |
+| 2     |              | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/bloglink.jpg)]() |
+| 3     |              | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/bloglink.jpg)]() |
+| 4     |              | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/bloglink.jpg)]() |
+| 5     |              | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/bloglink.jpg)]() |
+| 6     |              | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/bloglink.jpg)]() |
+| 7     |              | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/bloglink.jpg)]() |
+| 8     |              | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/bloglink.jpg)]() |
+| 9     |              | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/bloglink.jpg)]() |
+| 10    |              | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/bloglink.jpg)]() |
 
 #### Video ![](https://raw.githubusercontent.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/main/images/video.jpg)
 
 | Sr.No | Video Name | Link                                                         |
 | ----- | ---------- | ------------------------------------------------------------ |
-| 1     | MLOps Zoomcamp | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/videolink.jpg)](https://www.youtube.com/playlist?list=PL3MmuxUbc_hIUISrluw_A7wDSmfOhErJK) |
-| 2     | Machine Learning Engineering for Production (MLOps) Specialization by Andrew Ng | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/videolink.jpg)](https://www.youtube.com/playlist?list=PLVd1sFtZgLA7gPFPB8nPVEgOG1a5BkmSR) |
-| 3     | Docker Tutorial in Hindi 2022 | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/videolink.jpg)](https://www.youtube.com/playlist?list=PLfP3JxW-T70HIvqQpoDpP-WK-uzD-wnsH) |
-| 4     |            | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/videolink.jpg)]() |
-| 5     |            | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/videolink.jpg)]() |
-| 6     |            | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/videolink.jpg)]() |
+| 1     | **MLOps Zoomcamp** | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/videolink.jpg)](https://www.youtube.com/playlist?list=PL3MmuxUbc_hIUISrluw_A7wDSmfOhErJK) |
+| 2     | **Machine Learning Engineering for Production (MLOps) Specialization by Andrew Ng** | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/videolink.jpg)](https://www.youtube.com/playlist?list=PLVd1sFtZgLA7gPFPB8nPVEgOG1a5BkmSR) |
+| 3     | **Docker Tutorial in Hindi 2022** | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/videolink.jpg)](https://www.youtube.com/playlist?list=PLfP3JxW-T70HIvqQpoDpP-WK-uzD-wnsH) |
+| 4     | **CS 329S: Machine Learning Systems Design** | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/videolink.jpg)](https://stanford-cs329s.github.io/syllabus.html) |
+| 5     | **Full Stack Deep Learning 2019** | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/videolink.jpg)](https://fall2019.fullstackdeeplearning.com/) |
+| 6     |  | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/videolink.jpg)]() |
 | 7     |            | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/videolink.jpg)]() |
 | 8     |            | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/videolink.jpg)]() |
 | 9     |            | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/videolink.jpg)]() |
@@ -229,13 +229,13 @@
 
 ####   Extra Resources ![](https://raw.githubusercontent.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/main/images/extra.jpg)
 
-| Sr.No | Resource Name | Link                                                         |
-| ----- | ------------- | ------------------------------------------------------------ |
-| 1     |               | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/extralink.jpg)]() |
-| 2     |               | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/extralink.jpg)]() |
-| 3     |               | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/extralink.jpg)]() |
-| 4     |               | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/extralink.jpg)]() |
-| 5     |               | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/extralink.jpg)]() |
+| Sr.No | Resource Name                           | Link                                                         |
+| ----- | --------------------------------------- | ------------------------------------------------------------ |
+| 1     | **Awesome MLops**                       | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/extralink.jpg)](https://github.com/visenger/awesome-mlops) |
+| 2     | **MadewithML**                          | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/extralink.jpg)](https://madewithml.com/#mlops) |
+| 3     | **Awesome Production Machine learning** | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/extralink.jpg)](https://github.com/EthicalML/awesome-production-machine-learning) |
+| 4     | **MLOps - Best Blog(Neptune.ai)**       | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/extralink.jpg)](https://neptune.ai/blog) |
+| 5     | **OPERATIONALIZING MACHINE LEARNING**   | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/extralink.jpg)](https://chicagodatascience.github.io/MLOps/) |
 
 ---
 
