@@ -10,8 +10,9 @@
 <p align="center"> This initiative compiles educational resources on a daily basis, making it possible for users to get all the data they want in one place.
     <br> 
 </p>
-## 📝 Table of Contents
 
+## 📝 Table of Contents
+---
 - [95% Data Science Skill Covered Course](#course)
 - [COMPUTER VISION](#CV)
 - [NATURAL LANGUAGE PROCESSING](#NLP)
