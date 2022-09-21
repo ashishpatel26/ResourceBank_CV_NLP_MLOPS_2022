@@ -190,22 +190,22 @@
 
 ![MLOps Principles](https://ml-ops.org/img/mlops-phasen.jpg) 
 
-​                                                                                        **Credit : Ml-ops.org**
+​                                                                                        **Credit : ML-ops.org**
 
 #### Books ![](https://raw.githubusercontent.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/main/images/book.jpg)
 
-| Sr.No | Book Name | Link                                                         |
-| ----- | --------- | ------------------------------------------------------------ |
-| 1     |           | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/book_link.jpg)](https://szeliski.org/Book/) |
-| 2     |           | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/book_link.jpg)]() |
-| 3     |           | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/book_link.jpg)]() |
-| 4     |           | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/book_link.jpg)]() |
-| 5     |           | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/book_link.jpg)]() |
-| 6     |           | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/book_link.jpg)]() |
-| 7     |           | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/book_link.jpg)]() |
-| 8     |           | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/book_link.jpg)]() |
-| 9     |           | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/book_link.jpg)]() |
-| 10.   |           | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/book_link.jpg)]() |
+| Sr.No | Book Name                                                    | Link                                                         |
+| ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 1     | **Engineering MLOps: By Emmanuel Raj**                       | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/book_link.jpg)](https://www.packtpub.com/product/engineering-mlops/9781800562882)[![img](https://raw.githubusercontent.com/ashishpatel26/Treasure-of-Transformers/main/images/git.jpg)](https://github.com/PacktPublishing/EngineeringMLOps) |
+| 2     | **Machine Learning Design Patterns Book by Michael Munn, Sara Robinson, and Valliappa Lakshmanan** | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/book_link.jpg)](https://www.oreilly.com/library/view/machine-learning-design/9781098115777/)[![img](https://raw.githubusercontent.com/ashishpatel26/Treasure-of-Transformers/main/images/git.jpg)](https://github.com/GoogleCloudPlatform/ml-design-patterns) |
+| 3     | **Designing Machine Learning Systems Book by Chip Huyen**    | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/book_link.jpg)](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/)[![img](https://raw.githubusercontent.com/ashishpatel26/Treasure-of-Transformers/main/images/git.jpg)](https://github.com/chiphuyen/machine-learning-systems-design) |
+| 4     | **Practical MLOps by Noah Gift, Alfredo Deza**               | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/book_link.jpg)](https://www.oreilly.com/library/view/practical-mlops/9781098103002/)[![img](https://raw.githubusercontent.com/ashishpatel26/Treasure-of-Transformers/main/images/git.jpg)](https://github.com/paiml/practical-mlops-book) |
+| 5     |                                                              | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/book_link.jpg)]()[![img](https://raw.githubusercontent.com/ashishpatel26/Treasure-of-Transformers/main/images/git.jpg)]() |
+| 6     |                                                              | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/book_link.jpg)]()[![img](https://raw.githubusercontent.com/ashishpatel26/Treasure-of-Transformers/main/images/git.jpg)]() |
+| 7     |                                                              | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/book_link.jpg)]()[![img](https://raw.githubusercontent.com/ashishpatel26/Treasure-of-Transformers/main/images/git.jpg)]() |
+| 8     |                                                              | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/book_link.jpg) ]()[![img](https://raw.githubusercontent.com/ashishpatel26/Treasure-of-Transformers/main/images/git.jpg)]() |
+| 9     |                                                              | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/book_link.jpg)]()[![img](https://raw.githubusercontent.com/ashishpatel26/Treasure-of-Transformers/main/images/git.jpg)]() |
+| 10.   |                                                              | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/book_link.jpg)]()[![img](https://raw.githubusercontent.com/ashishpatel26/Treasure-of-Transformers/main/images/git.jpg)]() |
 
 #### Articles ![](https://raw.githubusercontent.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/main/images/blog.jpg)
 
