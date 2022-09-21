@@ -182,6 +182,8 @@
 ## 👨‍💻 MLOPS<a name = "MLOPS"></a>
 ---
 
+
+
 #### Books ![](https://raw.githubusercontent.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/main/images/book.jpg)
 
 | Sr.No | Book Name | Link                                                         |
@@ -221,11 +223,14 @@
 | 3     | **Docker Tutorial in Hindi 2022** | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/videolink.jpg)](https://www.youtube.com/playlist?list=PLfP3JxW-T70HIvqQpoDpP-WK-uzD-wnsH) |
 | 4     | **CS 329S: Machine Learning Systems Design** | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/videolink.jpg)](https://stanford-cs329s.github.io/syllabus.html) |
 | 5     | **Full Stack Deep Learning 2019** | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/videolink.jpg)](https://fall2019.fullstackdeeplearning.com/) |
-| 6     |  | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/videolink.jpg)]() |
-| 7     |            | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/videolink.jpg)]() |
-| 8     |            | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/videolink.jpg)]() |
-| 9     |            | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/videolink.jpg)]() |
-| 10    |            | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/videolink.jpg)]() |
+| 6     | **MLOps - Machine Learning Operations** | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/videolink.jpg)](https://www.youtube.com/playlist?list=PL3N9eeOlCrP5a6OA473MA4KnOXWnUyV_J) |
+| 7     | **MLOps: ML Deployment 2020** | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/videolink.jpg)](https://www.youtube.com/playlist?list=PLzq3B7Hh4uvbe9xXXEa1EuawIXTDHZpg1) |
+| 8     | **Mlops Live Webinar** | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/videolink.jpg)](https://www.youtube.com/playlist?list=PLH8M0UOY0uy4qzau2iAFunuT6cTMmTHvB) |
+| 9     | **Azure MLops** | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/videolink.jpg)](https://www.youtube.com/playlist?list=PLB1nTQo4_y6sMCAjWpAfEfXjC_t-7LeUm) |
+| 10    | **MLOps by Pragmatic AI Labs** | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/videolink.jpg)](https://www.youtube.com/playlist?list=PLdfopzFjkPz9shHCeH9poe9sbAn0pIojX) |
+| 11 | **MLops Tutorial by DVC.org** | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/videolink.jpg)](https://www.youtube.com/playlist?list=PL7WG7YrwYcnDBDuCkFbcyjnZQrdskFsBz) |
+| 12 | **Kubernetes Tutorial for Beginners [FULL COURSE in 4 Hours]** | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/videolink.jpg)](https://www.youtube.com/watch?v=X48VuDVv0do&ab_channel=TechWorldwithNana) |
+| 13 | **Docker  Tutorials For Beginner - 2 Million view** | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/videolink.jpg)](https://www.youtube.com/watch?v=fqMOX6JJhGo&ab_channel=freeCodeCamp.org) |
 
 ####   Extra Resources ![](https://raw.githubusercontent.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/main/images/extra.jpg)
 
@@ -236,8 +241,10 @@
 | 3     | **Awesome Production Machine learning** | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/extralink.jpg)](https://github.com/EthicalML/awesome-production-machine-learning) |
 | 4     | **MLOps - Best Blog(Neptune.ai)**       | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/extralink.jpg)](https://neptune.ai/blog) |
 | 5     | **OPERATIONALIZING MACHINE LEARNING**   | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/extralink.jpg)](https://chicagodatascience.github.io/MLOps/) |
+| 6     | **Practical Guide of MLOps by Google**  | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/extralink.jpg)](https://cloud.google.com/resources/mlops-whitepaper) |
+| 7     | **Awesome MLOps Guide Tools**           | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/extralink.jpg)](https://github.com/kelvins/awesome-mlops) |
 
 ---
 
-**🙏 Thanks for Reading 🙏**
+***🙏 Thanks for Reading 🙏 More is coming stay tune ⛹️‍♂️***
 
