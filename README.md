@@ -36,6 +36,11 @@
 
 ## 👁️‍🗨️ COMPUTER VISION<a name = "CV"></a>
 
+**Computer Vision Learning Path Recommended by OpenCV**
+
+---
+
+![](https://github.com/ashishpatel26/ResourceBank_CV_NLP_MLOPS_2022/blob/main/images/cv_learning_path.png?raw=true)  ![](https://github.com/ashishpatel26/ResourceBank_CV_NLP_MLOPS_2022/blob/main/images/cv_learning_path2.png?raw=true)
 
 #### Books ![](https://raw.githubusercontent.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/main/images/book.jpg)
 
