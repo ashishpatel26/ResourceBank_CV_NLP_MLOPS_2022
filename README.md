@@ -40,9 +40,10 @@
 
 ---
 
-![](https://github.com/ashishpatel26/ResourceBank_CV_NLP_MLOPS_2022/blob/main/images/cv_learning_path.png?raw=true)  ![](https://github.com/ashishpatel26/ResourceBank_CV_NLP_MLOPS_2022/blob/main/images/cv_learning_path2.png?raw=true)
+[![](https://github.com/ashishpatel26/ResourceBank_CV_NLP_MLOPS_2022/blob/main/images/cv_learning_path.jpg?raw=true)](https://opencv.org/syllabus/cv1-syllabus.pdf)  [![](https://github.com/ashishpatel26/ResourceBank_CV_NLP_MLOPS_2022/blob/main/images/cv_learning_path2.jpg?raw=true)](https://opencv.org/syllabus/cv2-syllabus.pdf)
 
-#### Books ![](https://raw.githubusercontent.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/main/images/book.jpg)
+
+#### Books
 
 | Sr.No | Book Name                                                    | Link                                                         |
 | ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
