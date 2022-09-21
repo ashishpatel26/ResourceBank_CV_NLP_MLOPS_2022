@@ -251,6 +251,7 @@
 | 5     | **OPERATIONALIZING MACHINE LEARNING**   | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/extralink.jpg)](https://chicagodatascience.github.io/MLOps/) |
 | 6     | **Practical Guide of MLOps by Google**  | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/extralink.jpg)](https://cloud.google.com/resources/mlops-whitepaper) |
 | 7     | **Awesome MLOps Guide Tools**           | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/extralink.jpg)](https://github.com/kelvins/awesome-mlops) |
+| 8     | **MLops Blogs by MLOps BootCamp**       | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/extralink.jpg)](https://kargarisaac.github.io/blog/categories/#mlops) |
 
 ---
 
