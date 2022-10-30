@@ -20,7 +20,7 @@
 
 ## ♾️ 95% Data Science Skills Covered Course<a name="course"></a>
 ---
-| Sr.No | Resources                                                     | Link                                                         |
+| Sr.No | Courses                                                     | Link                                                         |
 | ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 1     | **Machine Learning Specialization**                          | [![](https://raw.githubusercontent.com/ashishpatel26/ResourceBank_CV_NLP_MLOPS_2022/main/images/online-learning.png)](https://lnkd.in/dUFfAdNS) |
 | 2     | **Deep Learning Specialization**         | [![](https://raw.githubusercontent.com/ashishpatel26/ResourceBank_CV_NLP_MLOPS_2022/main/images/online-learning.png)](https://lnkd.in/gpQhgA2T) |
@@ -32,7 +32,7 @@
 | 8     | **Generative Adversarial Networks (GANs) Specialization** | [![](https://raw.githubusercontent.com/ashishpatel26/ResourceBank_CV_NLP_MLOPS_2022/main/images/online-learning.png)](https://lnkd.in/dye_EFdb) |
 | 9     | **Practical Data Science on the Amazon Web Services (AWS) Cloud Specialization**                      | [![](https://raw.githubusercontent.com/ashishpatel26/ResourceBank_CV_NLP_MLOPS_2022/main/images/online-learning.png)](https://lnkd.in/dShdTA2R) |
 | 10     | **Mathematics of Data Science**                      | [![](https://raw.githubusercontent.com/ashishpatel26/ResourceBank_CV_NLP_MLOPS_2022/main/images/online-learning.png)](https://www.youtube.com/playlist?list=PLiud-28tsatIKUitdoH3EEUZL-9i516IL) |
-| 11     | **Accuracy and Loss: Things to Know about The Top 1 and Top 5 Accuracy**                      | [![](https://raw.githubusercontent.com/ashishpatel26/ResourceBank_CV_NLP_MLOPS_2022/main/images/online-learning.png)](https://towardsdatascience.com/accuracy-and-loss-things-to-know-about-the-top-1-and-top-5-accuracy-1d6beb8f6df3) |
+| 11     | ** **                      | [![](https://raw.githubusercontent.com/ashishpatel26/ResourceBank_CV_NLP_MLOPS_2022/main/images/online-learning.png)]() |
 
 ####   Extra Resources ![](https://raw.githubusercontent.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/main/images/extra.jpg)
 
@@ -41,7 +41,7 @@
 | 1     | **Intro to optimization in deep learning: Gradient Descent** | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/extralink.jpg)](https://blog.paperspace.com/intro-to-optimization-in-deep-learning-gradient-descent/) |
 | 2     | **ML system design usecases** | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/extralink.jpg)](https://github.com/khangich/machine-learning-interview/blob/master/design.md) |
 | 2     | **Free datasets for Data Science, Data Analytics, and ML projects** | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/extralink.jpg)](https://www.linkedin.com/posts/dhavalsays_datasciencetraining-datasciencecareers-machinelearningtraining-activity-6973845094596542464-I0Cy/?utm_source=share&utm_medium=member_ios) |
-| 3     | ** ** | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/extralink.jpg)]() |
+| 3     | **Accuracy and Loss: Things to Know about The Top 1 and Top 5 Accuracy** | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/extralink.jpg)](https://towardsdatascience.com/accuracy-and-loss-things-to-know-about-the-top-1-and-top-5-accuracy-1d6beb8f6df3) |
 | 4     | ** ** | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/extralink.jpg)]() |
 | 5     | ** ** | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/extralink.jpg)]() |
 | 6     | ** ** | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/extralink.jpg)]() |
