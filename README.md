@@ -20,7 +20,7 @@
 
 ## ♾️ 95% Data Science Skills Covered Course<a name="course"></a>
 ---
-| Sr.No | Book Name                                                    | Link                                                         |
+| Sr.No | Courses                                                     | Link                                                         |
 | ----- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 1     | **Machine Learning Specialization**                          | [![](https://raw.githubusercontent.com/ashishpatel26/ResourceBank_CV_NLP_MLOPS_2022/main/images/online-learning.png)](https://lnkd.in/dUFfAdNS) |
 | 2     | **Deep Learning Specialization**         | [![](https://raw.githubusercontent.com/ashishpatel26/ResourceBank_CV_NLP_MLOPS_2022/main/images/online-learning.png)](https://lnkd.in/gpQhgA2T) |
@@ -31,7 +31,20 @@
 | 7     | **Machine Learning Engineering for Production (MLOps) Specialization** | [![](https://raw.githubusercontent.com/ashishpatel26/ResourceBank_CV_NLP_MLOPS_2022/main/images/online-learning.png)](https://lnkd.in/gicaDub6) |
 | 8     | **Generative Adversarial Networks (GANs) Specialization** | [![](https://raw.githubusercontent.com/ashishpatel26/ResourceBank_CV_NLP_MLOPS_2022/main/images/online-learning.png)](https://lnkd.in/dye_EFdb) |
 | 9     | **Practical Data Science on the Amazon Web Services (AWS) Cloud Specialization**                      | [![](https://raw.githubusercontent.com/ashishpatel26/ResourceBank_CV_NLP_MLOPS_2022/main/images/online-learning.png)](https://lnkd.in/dShdTA2R) |
+| 10     | **Mathematics of Data Science**                      | [![](https://raw.githubusercontent.com/ashishpatel26/ResourceBank_CV_NLP_MLOPS_2022/main/images/online-learning.png)](https://www.youtube.com/playlist?list=PLiud-28tsatIKUitdoH3EEUZL-9i516IL) |
+| 11     | ** **                      | [![](https://raw.githubusercontent.com/ashishpatel26/ResourceBank_CV_NLP_MLOPS_2022/main/images/online-learning.png)]() |
 
+####   Extra Resources ![](https://raw.githubusercontent.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/main/images/extra.jpg)
+
+| Sr.No | Resource Name | Link                                                         |
+| ----- | ------------- | ------------------------------------------------------------ |
+| 1     | **Intro to optimization in deep learning: Gradient Descent** | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/extralink.jpg)](https://blog.paperspace.com/intro-to-optimization-in-deep-learning-gradient-descent/) |
+| 2     | **ML system design usecases** | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/extralink.jpg)](https://github.com/khangich/machine-learning-interview/blob/master/design.md) |
+| 2     | **Free datasets for Data Science, Data Analytics, and ML projects** | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/extralink.jpg)](https://www.linkedin.com/posts/dhavalsays_datasciencetraining-datasciencecareers-machinelearningtraining-activity-6973845094596542464-I0Cy/?utm_source=share&utm_medium=member_ios) |
+| 3     | **Accuracy and Loss: Things to Know about The Top 1 and Top 5 Accuracy** | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/extralink.jpg)](https://towardsdatascience.com/accuracy-and-loss-things-to-know-about-the-top-1-and-top-5-accuracy-1d6beb8f6df3) |
+| 4     | ** ** | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/extralink.jpg)]() |
+| 5     | ** ** | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/extralink.jpg)]() |
+| 6     | ** ** | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/extralink.jpg)]() |
 
 
 ## 👁️‍🗨️ COMPUTER VISION<a name = "CV"></a>
@@ -63,7 +76,7 @@
 | Sr.No | Article Name                                 | Link                                                         |
 | ----- | -------------------------------------------- | ------------------------------------------------------------ |
 | 1     | Computer Vision: Algorithms and Applications | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/bloglink.jpg)]() |
-| 2     |                                              | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/bloglink.jpg)]() |
+| 2     | End to End Learning for Self-Driving Cars using python                                             | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/bloglink.jpg)](https://medium.com/@dipeshshtha4/end-to-end-learning-for-self-driving-cars-using-python-c5e8852af3e6) |
 | 3     |                                              | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/bloglink.jpg)]() |
 | 4     |                                              | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/bloglink.jpg)]() |
 | 5     |                                              | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/bloglink.jpg)]() |
@@ -118,6 +131,15 @@
 | 17    | **Learn TensorFlow and Deep Learning fundamentals with Python** | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/extralink.jpg)](https://www.youtube.com/watch?v=tpCFfeUEGs8&ab_channel=DanielBourke) |
 | 18    | **GTC Sept 2022 Keynote with NVIDIA CEO Jensen Huang** | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/extralink.jpg)](https://www.youtube.com/watch?v=PWcNlRI00jo&ab_channel=NVIDIA) |
 | 19    | **ML Model Training and Inference with a Data Mesh** | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/extralink.jpg)](https://www.youtube.com/watch?v=3-JwOzqaUDI&ab_channel=SdAmVfGT1K8MnsmuYQby2wJibmeiHnQwVHn) |
+| 20    | **Attitude-Guided Loop Closure for Cameras with Negative Plane** | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/extralink.jpg)](https://github.com/flysoaryun/LF-VIO-Loop) |
+| 21    | **CVonline: The Evolving, Distributed, Non-Proprietary, On-Line Compendium of Computer Vision** | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/extralink.jpg)](https://homepages.inf.ed.ac.uk/rbf/CVonline/) |
+| 22    | **LearnopenCV** | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/extralink.jpg)](https://github.com/spmallick/learnopencv) |
+| 23    | **Expanding Language-Image Pretrained Models for General Video Recognition** | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/extralink.jpg)](https://github.com/microsoft/VideoX/tree/master/X-CLIP) |
+| 24    | **Open-Set Semi-Supervised Object Detection** | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/extralink.jpg)](https://ycliu93.github.io/projects/ossod.html) |
+| 25    | **How To Deal with Dataset Bias** | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/extralink.jpg)](https://youtu.be/nMDpcqx6ll8) |
+| 26    | ** ** | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/extralink.jpg)]() |
+
+
 
 
 ## 📝 NATURAL LANGUAGE PROCESSING<a name = "NLP"></a>
@@ -252,7 +274,11 @@
 | 6     | **Practical Guide of MLOps by Google**  | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/extralink.jpg)](https://cloud.google.com/resources/mlops-whitepaper) |
 | 7     | **Awesome MLOps Guide Tools**           | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/extralink.jpg)](https://github.com/kelvins/awesome-mlops) |
 | 8     | **MLops Blogs by MLOps BootCamp**       | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/extralink.jpg)](https://kargarisaac.github.io/blog/categories/#mlops) |
-
+| 9     | **FedML MLOps Introduction**       | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/extralink.jpg)](https://www.youtube.com/watch?v=Xgm0XEaMlVQ&ab_channel=ChaoyangHe) |
+| 10    | ** **       | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/extralink.jpg)]() |
+| 11    | ** **       | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/extralink.jpg)]() |
+| 12    | ** **       | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/extralink.jpg)]() |
+| 13    | ** **       | [![](https://github.com/ashishpatel26/Resources_Bank_CV_NLP_MLops/raw/main/images/extralink.jpg)]() |
 ---
 
 ***🙏 Thanks for Reading 🙏 More is coming stay tune ⛹️‍♂️***
